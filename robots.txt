@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itabuugu.github.io/ILG/sitemap_index.txt
+Sitemap: https://itabuugu.github.io/PXR/sitemap_index.txt
+Sitemap: https://itabuugu.github.io/eBF/sitemap_index.txt
+Sitemap: https://itabuugu.github.io/gBS/sitemap_index.txt
